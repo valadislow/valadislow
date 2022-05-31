@@ -1,4 +1,4 @@
-[![MasterHead][(https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)](https://i.gifer.com/origin/1d/1dacd978e1b5c461cc6b65a1b5d8b07f.gif)
+[![MasterHead][(https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)](https://i.gifer.com/origin/1d/1dacd978e1b5c461cc6b65a1b5d8b07f.gif)>
 <h1 align="center">Hi 👋, I'm Vlad Lesyk</h1>
 <h3 align="center">A passionate iOS developer from Ukraine</h3>
 
