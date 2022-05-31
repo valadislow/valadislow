@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vlad Lesyk</h1>
 <h3 align="center">A passionate iOS developer from Ukraine</h3>
-[<img src="" width="256" />](https://i.gifer.com/cJA.gif)
 
 - 🔭 I’m currently working on **continuity**
 
