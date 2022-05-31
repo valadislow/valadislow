@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Vlad Lesyk</h1>
-<h3 align="center">A passionate iOS developer from Ukraine</h3>
+
+### align="center">Hi 👋, my name is Vlad
+#### A passionate iOS developer from Ukraine
+![A passionate iOS developer from Ukraine](https://i0.wp.com/windowscustomization.com/wp-content/uploads/2018/11/apple-colorlines.gif?fit=750%2C364&quality=80&strip=all&ssl=1)
 
 - 🔭 I’m currently working on **continuity**
 
